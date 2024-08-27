@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class TaskScheduler {
+public class TaskScheduler {
+    public void tick() {
+    }
+
+    public void add(){
+    }
 }

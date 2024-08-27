@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class TareaProgramada {
+abstract class TareaProgramada extends Tarea {
+    public abstract boolean correspondeEjecutar();
 }
